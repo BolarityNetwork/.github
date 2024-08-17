@@ -1,5 +1,11 @@
 # Welcome to the Bolarity repos!
 
-Bolarity is a Bitcoin Layer2 solution that offers a HybridVM execution environment designed to transcend the limitations of different virtual machines. This platform enables users to leverage the benefits of multiple VMs through a unified interface and seamless interoperability without any additional learning curve.
+**Bolarity** is a next-generation abstract blockchain solution focused on addressing the fragmentation in today’s multi-chain ecosystems. By unifying blockchain interactions, Bolarity reduces the complexity for both users and developers. Bolarity offers values as follows:
 
-Developers can deploy their decentralized applications (dApps) in any programming language on Bolarity's "All-in-one" platform, eliminating concerns about fragmentation caused by VM limitations. This approach ensures unified liquidity and a shared customer base, fostering a more cohesive and accessible ecosystem for both users and developers.
+- **Pluggable Cross-chain Abstraction:** Enables any chain to allow users to directly interact with applications on other chains without leaving their current chain, while also supporting interoperability across heterogeneous VMs.
+
+- **Intent:** Simplifies user interactions by automating complex processes through Bolarity, eliminating the need for users to perform cumbersome operations.
+
+- **HybridVM Execution Environment:** Provides a hybrid VM execution environment that allows users to deploy high-efficiency smart contracts at low cost.
+
+- **Cross-VM Application Synergy:** Offers a standard for cross-VM smart contract deployment, fully leveraging the strengths of different VMs to unlock the limitless potential of application development.
