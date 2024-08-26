@@ -21,14 +21,18 @@ Bolarity is a next-generation abstract blockchain solution designed to address t
 
 ### HybridVM
 
-Offers a versatile execution environment, enabling developers to deploy flexible smart contracts at reduced costs. Additionally, it delivers advanced message orchestration and proof validation across the entire network, ensuring seamless interoperability and robust verification.
+Offers a versatile execution environment, enabling developers to deploy flexible smart contracts at reduced costs. Additionally, it delivers advanced message orchestration and protocol benchmarks for the entire network, ensuring seamless interoperability and robust verification.
   - **Multi-language Support:** Empowers developers to write and deploy smart contracts in various programming languages, broadening accessibility and reducing barriers to entry.
   - **Interoperability:** Ensures seamless integration and interaction across different blockchain networks and virtual machines, promoting a unified and connected ecosystem.
   - **CrossVM Contract:** Enables smart contracts to execute across multiple virtual machines, harnessing the strengths of each to optimize performance and functionality.
 
 ### Mosaic
 
+Offers a standard framework for cross-VM smart contract deployment, fully leveraging the strengths of different VMs to unlock the limitless potential of application development.
 - **Modular Smart Contract:** Supports the deployment of smart contract components as modular units across different VMs, allowing for easy customization and adaptability.
 - **HybridVM Application:** Enables deployment of smart contract components across different VMs, leveraging the unique strengths of each.
 - **Flexible Composition:** Allows one VM to act as a backend for another, offering versatile combinations for optimized performance.
-.
+
+### Architecture
+
+![image](https://github.com/user-attachments/assets/ace7c005-ec62-4abb-8952-8af90c10f09a)
