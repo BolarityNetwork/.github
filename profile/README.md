@@ -2,7 +2,7 @@
 
 # Introduction
 
-Bolarity is a next-generation abstract blockchain solution designed to address the fragmentation in today’s multi-chain ecosystems. By unifying blockchain interactions, it empowers any chain to interoperate seamlessly, bringing cohesion to the blockchain world and eliminating fragmentation.
+Bolarity is a next-generation chain abstraction solution designed to address the fragmentation in today’s multi-chain ecosystems. By unifying blockchain interactions, it empowers any chain to interoperate seamlessly, bringing cohesion to the blockchain world and eliminating fragmentation.
 
 ## Our Vision
 
@@ -12,7 +12,7 @@ Our vision is a future where the complexities of multiple chains and emerging ro
 
 ### Synapse
 
-- **Plugable Cross-Chain Abstraction:** Enables users on any chain to interact with applications on other chains using their native account, while supporting interoperability across different VMs without leaving their current chain.
+- **Plug-and-play Cross-Chain Abstraction:** Enables users on any chain to interact with applications on other chains using their native account, while supporting interoperability across different VMs without leaving their current chain.
   - **Account Abstraction:** Interact with any application across chains using a unified account, simplifying user identity management.
   - **Gas Abstraction:** Achieve interoperability with universal gas, eliminating the need to handle multiple gas tokens across different chains.
   - **VM Abstraction:** Interact with any virtual machine using a unified account, ensuring seamless operation across diverse VMs.
