@@ -4,6 +4,10 @@
 
 Bolarity is a next-generation abstract blockchain solution designed to address the fragmentation in today’s multi-chain ecosystems. By unifying blockchain interactions, it empowers any chain to interoperate seamlessly, bringing cohesion to the blockchain world and eliminating fragmentation.
 
+## Our Vision
+
+Our vision is a future where the complexities of multiple chains and emerging rollups or appchains no longer matter. With Chain Abstraction, we will create a seamless environment where users can interact effortlessly, without the need to worry about underlying blockchain intricacies.
+
 ## Our three Products
 
 ### Synapse
@@ -33,6 +37,7 @@ Offers a standard framework for cross-VM smart contract deployment, fully levera
 - **HybridVM Application:** Enables deployment of smart contract components across different VMs, leveraging the unique strengths of each.
 - **Flexible Composition:** Allows one VM to act as a backend for another, offering versatile combinations for optimized performance.
 
-### Architecture
+## Architecture
 
 ![image](https://github.com/user-attachments/assets/ace7c005-ec62-4abb-8952-8af90c10f09a)
+
