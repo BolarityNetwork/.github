@@ -12,7 +12,7 @@ Our vision is a future where the complexities of multiple chains and emerging ro
 
 ### Synapse
 
-- **Plug-and-play Cross-Chain Abstraction:** Enables users on any chain to interact with applications on other chains using their native account, while supporting interoperability across different VMs without leaving their current chain.
+- **Plug-n-play Cross-Chain Abstraction:** Enables users on any chain to interact with applications on other chains using their native account, while supporting interoperability across different VMs without leaving their current chain.
   - **Account Abstraction:** Interact with any application across chains using a unified account, simplifying user identity management.
   - **Gas Abstraction:** Achieve interoperability with universal gas, eliminating the need to handle multiple gas tokens across different chains.
   - **VM Abstraction:** Interact with any virtual machine using a unified account, ensuring seamless operation across diverse VMs.
